@@ -35,4 +35,4 @@ Projeto React consumindo API externa.
 
 ## ✒️ Autor
 
-* **Lázaro Henrique** 
+* **Lázaro Henrique**  
