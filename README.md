@@ -20,6 +20,10 @@ Projeto React consumindo API externa.
   <img align="center" src="https://user-images.githubusercontent.com/78514404/235206281-92de953a-a8a2-4076-a64e-8c4ec506a21f.PNG" alt="App Tours" width="800"/>
 </p>
 
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/78514404/235209291-5acca82c-ea7e-4ba3-a8e3-c8446dfc820e.PNG" alt="App Tours" width="800"/>
+</p>
+
 # Para rodar o projeto utilize o comando (**npm start**) 
 
 ## 🛠️ Construído com
