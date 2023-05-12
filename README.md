@@ -1,6 +1,6 @@
 # App Tours
 
-Projeto React consumindo API externa.
+Projeto React consumindo API externa. 
 ## 👀 Ver deploy! 👉 <a href="https://app-tours-react.vercel.app/">App Tours</a>
 
 ## 🖼 Screenshots do projeto
